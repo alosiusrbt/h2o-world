@@ -1,0 +1,39 @@
+{
+  "name": "university.h2o.ai",
+  "version": "0.0.0",
+  "description": "university.h2o.ai Public Website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/h2oai/university.h2o.ai.git"
+  },
+  "keywords": [
+    "university.h2o.ai",
+    "website"
+  ],
+  "author": "Prithvi Prabhu <prithvi@0xdata.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/h2oai/university.h2o.ai/issues"
+  },
+  "homepage": "https://github.com/h2oai/university.h2o.ai",
+  "devDependencies": {
+    "highlight.js": "~8.2.0"
+  },
+  "dependencies": {
+    "escape-html": "~1.0.1",
+    "twit": "~1.1.18",
+    "coffee-script": "~1.7.1",
+    "jade": "~1.5.0",
+    "js-yaml": "~3.1.0",
+    "marked": "~0.3.2",
+    "fs-extra": "~0.10.0",
+    "connect": "~3.1.0",
+    "serve-static": "~1.5.0",
+    "dateformat": "~1.0.8-1.2.3",
+    "underscore": "~1.6.0"
+  }
+}
