@@ -1102,10 +1102,11 @@ MIT License: https://github.com/driftyco/ionicons
   color: #777;
   font-size: 10px;
   margin-right: -1em;
+  font-size: 14px;
 }
 @media (min-width: 768px) {
   .snippet_schedule {
-    font-size: 13px;
+    font-size: 14px;
   }
 }
 .snippet_schedule .table {
@@ -1238,6 +1239,9 @@ MIT License: https://github.com/driftyco/ionicons
 .snippet_schedule .table .non-session-event-description .event-title {
   color: #333;
   margin-top: .25em;
+  font-size: 18px;
+  font-family: futura_ltlight, sans-serif;
+  font-weight: 700;
 }
 @media (min-width: 768px) {
   .snippet_schedule .table .non-session-event-description .event-title {
